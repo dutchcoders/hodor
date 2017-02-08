@@ -1,6 +1,6 @@
-# honos: nginx proxy filtering
+# hodor: nginx proxy filtering
 
-Honos is a library allowing you to filter on host, uri or content-type. 
+Hodor is a library allowing you to filter on host, uri or content-type. 
 
 ## Todo
 
